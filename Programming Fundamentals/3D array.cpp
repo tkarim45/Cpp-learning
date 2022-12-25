@@ -1,5 +1,7 @@
 // Allocation of 3D Array and Data is Stored in 3D Arrays
 
+// i was here
+
 #include <iostream>
 using namespace std;
 int main()
@@ -19,7 +21,3 @@ int main()
 		}
 	}
 }
-
-// Path: Programming Fundamentals/3D array.cpp
-
-// Output
