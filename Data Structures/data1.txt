@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<APIData from='google.com'>
+<name>Saqib Ali</name>
+<age>22</age>
+<books>
+<book src="nuces">Book A</book>
+<book>Book B</Book>
+<book>Book C</book>
+</books from="library">
+<friend>
+<friend>
+<name>Farhan Ali</name>
+<age>19</age>
+<books>
+<book>Book B</book>
+<book>Book C</book>
+</books>
+</friend>
+</friend>
+</APIData>
